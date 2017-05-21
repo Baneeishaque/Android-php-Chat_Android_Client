@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "F:\\Network\\Laboratory\\Android_Studio\\Android-php-Chat_Android_Client\\app\\build\\intermediates\\res\\merged\\debug\\values-v13\\values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\values-v13\\values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\Network\\Laboratory\\Android_Studio\\Android_php_chat\\app\\build\\intermediates\\res\\merged\\debug\\values-v13\\values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\values-v13\\values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    }
+]

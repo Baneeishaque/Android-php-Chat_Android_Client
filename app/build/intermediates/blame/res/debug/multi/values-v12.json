@@ -1,0 +1,172 @@
+[
+    {
+        "outputFile": "F:\\Network\\Laboratory\\Android_Studio\\Android-php-Chat_Android_Client\\app\\build\\intermediates\\res\\merged\\debug\\values-v12\\values-v12.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\values-v12\\values-v12.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 474
+                },
+                "from": {
+                    "file": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\values-v12\\values-v12.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 479,
+                    "endColumn": 118,
+                    "endOffset": 593
+                },
+                "from": {
+                    "file": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\values-v12\\values-v12.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 479,
+                        "endColumn": 118,
+                        "endOffset": 593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 598,
+                    "endColumn": 94,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\values-v12\\values-v12.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 598,
+                        "endColumn": 94,
+                        "endOffset": 688
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\Network\\Laboratory\\Android_Studio\\Android_php_chat\\app\\build\\intermediates\\res\\merged\\debug\\values-v12\\values-v12.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\values-v12\\values-v12.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 474
+                },
+                "from": {
+                    "file": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\values-v12\\values-v12.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 479,
+                    "endColumn": 118,
+                    "endOffset": 593
+                },
+                "from": {
+                    "file": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\values-v12\\values-v12.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 479,
+                        "endColumn": 118,
+                        "endOffset": 593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 598,
+                    "endColumn": 94,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\values-v12\\values-v12.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 598,
+                        "endColumn": 94,
+                        "endOffset": 688
+                    }
+                }
+            }
+        ]
+    }
+]

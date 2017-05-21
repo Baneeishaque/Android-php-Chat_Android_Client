@@ -1,0 +1,120 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:appcompat-v7:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\3c4a7ec35c8c8d4185e5569cbe793f50\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\63cb779899a37171de69cde30263a0e6\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\218bc3943841d36e7a108bd71cd5ec39\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\c173751f4ae8a939e384e94298250022\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\84580118a10558bc908bf80204055a78\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\7e9d128739b5dfad571336884d1aa383\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\c3cc857ab46098933a39d8d3f66b8d58\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\aadb5a8b89aec583aec54f84c3dabb55\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\5f34c90b861a913e2e7157661333f32f\AndroidManifest.xml:17:1-27:12
+INJECTED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\3c4a7ec35c8c8d4185e5569cbe793f50\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\3c4a7ec35c8c8d4185e5569cbe793f50\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\63cb779899a37171de69cde30263a0e6\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\63cb779899a37171de69cde30263a0e6\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\218bc3943841d36e7a108bd71cd5ec39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\218bc3943841d36e7a108bd71cd5ec39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\c173751f4ae8a939e384e94298250022\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\c173751f4ae8a939e384e94298250022\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\84580118a10558bc908bf80204055a78\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\84580118a10558bc908bf80204055a78\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\7e9d128739b5dfad571336884d1aa383\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\7e9d128739b5dfad571336884d1aa383\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\c3cc857ab46098933a39d8d3f66b8d58\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\c3cc857ab46098933a39d8d3f66b8d58\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\aadb5a8b89aec583aec54f84c3dabb55\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\aadb5a8b89aec583aec54f84c3dabb55\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\5f34c90b861a913e2e7157661333f32f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\5f34c90b861a913e2e7157661333f32f\AndroidManifest.xml:21:5-23:58
+INJECTED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\3c4a7ec35c8c8d4185e5569cbe793f50\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:10:22-64
+application
+ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:12:5-33:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\3c4a7ec35c8c8d4185e5569cbe793f50\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\3c4a7ec35c8c8d4185e5569cbe793f50\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\63cb779899a37171de69cde30263a0e6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\63cb779899a37171de69cde30263a0e6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\218bc3943841d36e7a108bd71cd5ec39\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\218bc3943841d36e7a108bd71cd5ec39\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\c173751f4ae8a939e384e94298250022\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\c173751f4ae8a939e384e94298250022\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\84580118a10558bc908bf80204055a78\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\84580118a10558bc908bf80204055a78\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\7e9d128739b5dfad571336884d1aa383\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\7e9d128739b5dfad571336884d1aa383\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\c3cc857ab46098933a39d8d3f66b8d58\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\c3cc857ab46098933a39d8d3f66b8d58\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\aadb5a8b89aec583aec54f84c3dabb55\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\aadb5a8b89aec583aec54f84c3dabb55\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\5f34c90b861a913e2e7157661333f32f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] G:\Programs\gradle-3.5-rc-3-cache\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\5f34c90b861a913e2e7157661333f32f\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.android_php_chat.MainActivity
+ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:18:13-69
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.example.android_php_chat.Signup
+ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:27:10-31:20
+	android:label
+		ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from F:\Network\Laboratory\Android_Studio\Android-php-Chat_Android_Client\app\src\main\AndroidManifest.xml:28:13-63

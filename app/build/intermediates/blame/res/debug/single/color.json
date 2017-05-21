@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android_php_chat\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android-php-Chat_Android_Client\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android_php_chat\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android-php-Chat_Android_Client\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android-php-Chat_Android_Client\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android-php-Chat_Android_Client\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android-php-Chat_Android_Client\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android-php-Chat_Android_Client\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android_php_chat\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android-php-Chat_Android_Client\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android_php_chat\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android_php_chat\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android_php_chat\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android-php-Chat_Android_Client\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android-php-Chat_Android_Client\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android_php_chat\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android-php-Chat_Android_Client\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android_php_chat\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android-php-Chat_Android_Client\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android-php-Chat_Android_Client\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android_php_chat\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android-php-Chat_Android_Client\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android-php-Chat_Android_Client\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android-php-Chat_Android_Client\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android_php_chat\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android_php_chat\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android_php_chat\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android_php_chat\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android-php-Chat_Android_Client\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android_php_chat\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android_php_chat\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android_php_chat\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android_php_chat\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android_php_chat\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android_php_chat\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android-php-Chat_Android_Client\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android-php-Chat_Android_Client\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android-php-Chat_Android_Client\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android_php_chat\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android-php-Chat_Android_Client\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android_php_chat\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android-php-Chat_Android_Client\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android-php-Chat_Android_Client\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "F:\\Network\\Laboratory\\Android_Studio\\Android_php_chat\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "G:\\Programs\\gradle-3.5-rc-3-cache\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.1.aar\\3c4a7ec35c8c8d4185e5569cbe793f50\\res\\color\\abc_secondary_text_material_light.xml"
+    }
+]
